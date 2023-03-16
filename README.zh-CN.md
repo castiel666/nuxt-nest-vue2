@@ -88,32 +88,3 @@ $ npm run generate
 * 产品名称支持自定义路由和网页描述 (SEO)。
 * 响应式网页，适配 PC 端和移动端。
 
-## 截图
-
-### CMS web
-![home](screenshot/web/mobile-home.png)    
-
-![home](screenshot/web/home.jpg)    
-
-![product](screenshot/web/mobile-product.png)    
-
-![product](screenshot/web/product.jpg)    
-
-![about](screenshot/web/mobile-about.png)    
-![about](screenshot/web/about.jpg)    
-
-### CMS 管理
-
-![banner](screenshot/admin/banner.png)    
-
-![product](screenshot/admin/product-create.png)    
-
-![product](screenshot/admin/product.png)    
-
-### CMS  API
-
-![API](screenshot/server/api.jpg)    
-
-## License
-
-[Apache License 2.0](LICENSE).
